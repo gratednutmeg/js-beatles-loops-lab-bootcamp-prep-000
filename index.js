@@ -15,6 +15,7 @@ function johnLennonFacts(array) {
     newArr.push(`${array[i]}!!!`)
     i++;
   }
+  console.log(newArr);
   return newArr;
 }
 
