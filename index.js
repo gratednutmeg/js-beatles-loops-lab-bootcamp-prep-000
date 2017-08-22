@@ -15,6 +15,7 @@ function johnLennonFacts(array) {
     newArr.push(`${array[i]}!!!`)
     i++;
   }
+  return newArr;
 }
 
 function iLoveTheBeatles() {
