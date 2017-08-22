@@ -6,3 +6,5 @@ function theBeatlesPlay(musicians,instruments){
   console.log(array);
   return array;
 }
+
+theBeatlesPlay(['John Lennon','Paul McCartney','George Harrison','Ringo Starr'],['Guitar','Bass Guitar','Lead Guitar','Drums']);
