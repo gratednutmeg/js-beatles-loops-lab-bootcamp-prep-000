@@ -9,10 +9,9 @@ function theBeatlesPlay(musicians,instruments){
 theBeatlesPlay(['John Lennon','Paul McCartney','George Harrison','Ringo Starr'],['Guitar','Bass Guitar','Lead Guitar','Drums']);
 
 function johnLennonFacts() {
-  
+
 }
 
 function iLoveTheBeatles() {
-  
-}
 
+}
