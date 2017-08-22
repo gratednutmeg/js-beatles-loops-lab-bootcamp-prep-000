@@ -11,8 +11,9 @@ theBeatlesPlay(['John Lennon','Paul McCartney','George Harrison','Ringo Starr'],
 function johnLennonFacts(array) {
   var newArr = [];
   var i = 0;
-  while ( < array.length) {
-    
+  while (i < array.length) {
+    newArr.push(array[i])
+    i--;
   }
 }
 
