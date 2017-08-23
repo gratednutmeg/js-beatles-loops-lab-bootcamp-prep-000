@@ -6,8 +6,6 @@ function theBeatlesPlay(musicians,instruments){
   return array;
 }
 
-theBeatlesPlay(['John Lennon','Paul McCartney','George Harrison','Ringo Starr'],['Guitar','Bass Guitar','Lead Guitar','Drums']);
-
 function johnLennonFacts(array) {
   var newArr = [];
   var i = 0;
@@ -28,4 +26,3 @@ function iLoveTheBeatles(n) {
 
   return array;
 }
-
