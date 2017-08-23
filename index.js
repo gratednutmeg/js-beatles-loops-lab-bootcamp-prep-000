@@ -29,3 +29,5 @@ function iLoveTheBeatles(n) {
   console.log(array);
   return array;
 }
+
+iLoveTheBeatles(5);
